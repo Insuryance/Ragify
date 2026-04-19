@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai-whisper
+yt-dlp
+llama-index
+llama-index-embeddings-huggingface
+chromadb
+sentence-transformers
+python-multipart
